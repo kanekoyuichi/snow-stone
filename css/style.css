@@ -1,0 +1,75 @@
+
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    color:rgb(58, 58, 58);
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 2rem;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(28, 183, 255);
+}
+
+header > div > p{
+    color:darkgray;
+    font-size: small;
+    margin-bottom: 0;
+}
+
+main{
+    padding-top: 2rem;
+}
+
+main > div > div > div > h2{
+    font-size: small;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px auto;
+    border-bottom: solid 1px rgb(58, 58, 58);
+    padding: 10px 40px;
+}
+
+main > div > div > div > p{
+    font-size: small;
+    text-align: center;
+}
+main > div > div > div > div > img{
+    width: 200px;
+}
+
+#map-discription{
+    color: darkgray;
+    text-align: left;
+}
+
+table{
+    font-size: small;
+}
+
+#sns{
+    text-align: center;
+    margin: 50px;
+}
+
+#prof{
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    width:  160px;       /* ※縦横を同値に */
+    height: 160px;       /* ※縦横を同値に */
+}
+
+
+footer{
+    border-top: solid 0px darkgray;
+    text-align: center;
+    margin-top: 100px;
+    padding-top:50px;
+    padding-bottom: 10px;
+    font-size: small;
+    color: darkgray;
+}
+
+footer > div > p{
+    margin-bottom: 0;
+}
