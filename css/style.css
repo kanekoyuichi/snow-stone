@@ -17,6 +17,9 @@ header > div > p{
     font-size: small;
     margin-bottom: 0;
 }
+.sns-icon{
+    margin-right: 5px;
+}
 
 main{
     padding-top: 2rem;
@@ -57,8 +60,9 @@ table{
 
 #prof{
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
-    width:  160px;       /* ※縦横を同値に */
-    height: 160px;       /* ※縦横を同値に */
+    width:  140px;       /* ※縦横を同値に */
+    height: 140px;       /* ※縦横を同値に */
+    margin-top: 10px;
 }
 
 
