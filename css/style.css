@@ -46,7 +46,8 @@ main > div > div > div > div > img{
 
 table{
     font-size: small;
-    max-width: 760px;
+    max-width: 768px;
+    margin:20px auto;
 }
 
 #sns{
